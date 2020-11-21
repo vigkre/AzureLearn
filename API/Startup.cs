@@ -8,7 +8,6 @@ using Microsoft.Extensions.Hosting;
 
 namespace API
 {
-    //Testing the comment
     public class Startup
     {
         private readonly IConfiguration _config;
